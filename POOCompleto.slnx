@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/PooFUNDAMENTOS/">
+    <Project Path="PooFUNDAMENTOS/ConsoleApp1.csproj" />
+  </Folder>
+  <Project Path="PilaresPOO/PilaresPOO.csproj" />
+</Solution>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Carro.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Carro.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Carro.cs",
+              "RelativeToolTip": "PilaresPOO\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T23:05:44.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
