@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7406D4ED-96CE-3E91-AB19-0552188A4991}|PooFUNDAMENTOS\\ConsoleApp1.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\poofundamentos\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7406D4ED-96CE-3E91-AB19-0552188A4991}|PooFUNDAMENTOS\\ConsoleApp1.csproj|solutionrelative:poofundamentos\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PooFUNDAMENTOS\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "PooFUNDAMENTOS\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PooFUNDAMENTOS\\ConsoleApp1.csproj",
+              "RelativeToolTip": "PooFUNDAMENTOS\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T23:20:31.406Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "PilaresPOO\\Carro.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Carro.cs",
               "RelativeToolTip": "PilaresPOO\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T23:05:44.318Z",
               "EditorCaption": ""
