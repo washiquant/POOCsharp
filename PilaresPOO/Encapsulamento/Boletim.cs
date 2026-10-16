@@ -20,7 +20,7 @@ namespace PilaresPOO.Encapsulamento
         {
             if ((nota < 0) || (nota > 10))
             {
-                Console.WriteLine($"Nota inválida: {{valor}}\" e não altera a nota.");
+                Console.WriteLine($"Nota inválida: {{valor}}\")                                                                                                                                                                ");
             }
             else
             {
@@ -38,3 +38,11 @@ namespace PilaresPOO.Encapsulamento
       
     }
 }
+/*
+ * Crie a classe Usuario com:
+Propriedade pública Login.
+Campo private string senha.
+Um construtor que recebe login e senha.
+Método público ConferirSenha(string tentativa): retorna true se a tentativa for igual à senha.
+Método público TrocarSenha(string senhaAtual, string novaSenha): só troca se a senha atual estiver correta. Mostra "Senha alterada!" ou "Senha atual incorreta.".
+*/

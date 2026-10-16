@@ -19,9 +19,9 @@ namespace ConsoleApp1
         {
             return visitas += 1;
         }  
-        public void ObterTotal()
+        public int ObterTotal()
         {
-            Console.WriteLine(visitas);
+            return visitas;
         }
 
 
