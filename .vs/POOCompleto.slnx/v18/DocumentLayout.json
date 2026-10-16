@@ -3,60 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:1:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\encapsulamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\encapsulamento\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\encapsulamento\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\encapsulamento\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\encapsulamento\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\encapsulamento\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\encapsulamento\\encapsulamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\encapsulamento\\encapsulamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7406D4ED-96CE-3E91-AB19-0552188A4991}|PooFUNDAMENTOS\\ConsoleApp1.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\poofundamentos\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7406D4ED-96CE-3E91-AB19-0552188A4991}|PooFUNDAMENTOS\\ConsoleApp1.csproj|solutionrelative:poofundamentos\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,154 +35,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Funcionario.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Funcionario.cs",
-              "RelativeToolTip": "PilaresPOO\\Heranca\\Funcionario.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:13:09.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cachorro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Cachorro.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Cachorro.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Cachorro.cs",
-              "RelativeToolTip": "PilaresPOO\\Heranca\\Cachorro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:09:59.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Professor.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Professor.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Professor.cs",
-              "RelativeToolTip": "PilaresPOO\\Heranca\\Professor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:05:37.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Aluno.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Aluno.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Aluno.cs",
-              "RelativeToolTip": "PilaresPOO\\Heranca\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:31:56.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Animal.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Animal.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Animal.cs",
-              "RelativeToolTip": "PilaresPOO\\Heranca\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:26:04.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Pessoa.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Pessoa.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Pessoa.cs",
-              "RelativeToolTip": "PilaresPOO\\Heranca\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T23:23:43.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Encapsulamento.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\Encapsulamento.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Encapsulamento\\Encapsulamento.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\Encapsulamento.cs",
-              "RelativeToolTip": "PilaresPOO\\Encapsulamento\\Encapsulamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T22:18:16.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\Usuario.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Encapsulamento\\Usuario.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\Usuario.cs",
-              "RelativeToolTip": "PilaresPOO\\Encapsulamento\\Usuario.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wC4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T22:18:01.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Boletim.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\Boletim.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Encapsulamento\\Boletim.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\Boletim.cs",
-              "RelativeToolTip": "PilaresPOO\\Encapsulamento\\Boletim.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T00:50:21.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContadorDeVisitas.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\ContadorDeVisitas.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Encapsulamento\\ContadorDeVisitas.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Encapsulamento\\ContadorDeVisitas.cs",
-              "RelativeToolTip": "PilaresPOO\\Encapsulamento\\ContadorDeVisitas.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T00:49:28.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PooFUNDAMENTOS\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "PooFUNDAMENTOS\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PooFUNDAMENTOS\\ConsoleApp1.csproj",
-              "RelativeToolTip": "PooFUNDAMENTOS\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-14T23:20:31.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Carro.cs",
-              "RelativeDocumentMoniker": "PilaresPOO\\Carro.cs",
-              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Carro.cs",
-              "RelativeToolTip": "PilaresPOO\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Carro.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Carro.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Carro.cs",
+              "RelativeToolTip": "PilaresPOO\\Heranca\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T23:05:44.318Z"
+              "WhenOpened": "2026-10-16T00:50:42.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Moto.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Moto.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Moto.cs",
+              "RelativeToolTip": "PilaresPOO\\Heranca\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:52:28.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Veiculo.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Veiculo.cs",
+              "RelativeToolTip": "PilaresPOO\\Heranca\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:43:50.213Z",
+              "EditorCaption": ""
             }
           ]
         }
@@ -243,7 +95,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Cachorro.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Cachorro.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Cachorro.cs",
@@ -251,12 +103,11 @@
               "RelativeToolTip": "PilaresPOO\\Heranca\\Cachorro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:10:20.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:10:20.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Gerente.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Gerente.cs",
