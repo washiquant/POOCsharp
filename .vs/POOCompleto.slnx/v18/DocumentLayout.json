@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\polimorfismo\\exercicios\\exercicio_um\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\polimorfismo\\exercicios\\exercicio_um\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\polimorfismo\\exercicios\\exercicio_um\\saudacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\polimorfismo\\exercicios\\exercicio_um\\saudacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\polimorfismo\\explicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\polimorfismo\\explicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|c:\\users\\fic\\desktop\\backend-washington-willian\\poo\\pilarespoo\\heranca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDC99584-4F4D-E97A-5348-7F6C5DD18F5F}|PilaresPOO\\PilaresPOO.csproj|solutionrelative:pilarespoo\\heranca\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Carro.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Carro.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Carro.cs",
@@ -43,25 +55,50 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T00:50:42.718Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Saudacao.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Saudacao.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Saudacao.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Saudacao.cs",
+              "RelativeToolTip": "PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Saudacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T23:00:31.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Explicacao.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Polimorfismo\\Explicacao.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Polimorfismo\\Explicacao.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Polimorfismo\\Explicacao.cs",
+              "RelativeToolTip": "PilaresPOO\\Polimorfismo\\Explicacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:42:43.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Moto.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Moto.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Moto.cs",
               "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Moto.cs",
               "RelativeToolTip": "PilaresPOO\\Heranca\\Moto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T00:52:28.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Veiculo.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Veiculo.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Veiculo.cs",
@@ -69,8 +106,7 @@
               "RelativeToolTip": "PilaresPOO\\Heranca\\Veiculo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T00:43:50.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T00:43:50.213Z"
             }
           ]
         }
@@ -95,7 +131,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Cachorro.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Cachorro.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Cachorro.cs",
@@ -107,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Gerente.cs",
               "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Heranca\\Gerente.cs",
               "RelativeDocumentMoniker": "PilaresPOO\\Heranca\\Gerente.cs",
@@ -116,6 +152,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T00:13:32.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "e77905e2-5963-4d1e-ba36-536235eda082",
+        "Display": 0,
+        "X": 239,
+        "Y": 230,
+        "Width": 1650,
+        "Height": 676,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Program.cs",
+              "RelativeDocumentMoniker": "PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Desktop\\Backend-Washington-Willian\\POO\\PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Program.cs",
+              "RelativeToolTip": "PilaresPOO\\Polimorfismo\\Exercicios\\exercicio_um\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T22:58:13.062Z",
               "EditorCaption": ""
             }
           ]
