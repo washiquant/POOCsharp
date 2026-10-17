@@ -30,3 +30,27 @@ namespace PilaresPOO.Abstracao
          * */
     }
 }
+internal interface INotificador
+{
+    void Enviar(string mensagem);
+}
+public class Email : INotificador
+{
+    public void Enviar(string mensagem)
+    {
+        Console.WriteLine($"Email disparado: {mensagem}");
+    }
+}
+//Notificacao SMS
+
+internal interface Imensageador
+{
+    void Mensageiro(string mensagem);
+}
+public class Mensageamento : Imensageador
+{
+    public void Mensageiro(string mensagem)
+    {
+        Console.WriteLine($"A Mensagem Disparada pelo Mensageiro é {mensagem}");
+    }
+}
